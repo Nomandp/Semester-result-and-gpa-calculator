@@ -1,0 +1,8 @@
+1. Open your terminal or Command Prompt and go to the project folder:
+`cd d:\Semester Result & GPA Calculator`
+
+2. Install the required library (`matplotlib`):
+`pip install matplotlib`
+
+3. Run the application:
+`python main.py`
